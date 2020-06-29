@@ -1,2 +1,2 @@
 This is a new file for testing
-This is the second line in the file for another testing.
+This is the second line in the file for another testing
